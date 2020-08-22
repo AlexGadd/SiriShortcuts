@@ -1,2 +1,2 @@
 # SiriShortcuts
-A collection of my sirishortcuts
+A collection of my Siri Shortcuts
